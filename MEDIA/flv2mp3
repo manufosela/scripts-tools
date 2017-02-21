@@ -1,0 +1,2 @@
+#!/bin/sh
+ffmpeg -i $1 -ab 192k -ar 44100 $2
