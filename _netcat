@@ -1,0 +1,1 @@
+(echo > /dev/tcp/$1/80) > /dev/null 2>&1 && echo "it's up" || echo "it's down"
