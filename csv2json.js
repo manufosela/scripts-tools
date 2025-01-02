@@ -1,1 +1,0 @@
-/home/manu/ws_node/csv2json/csv2json.js
